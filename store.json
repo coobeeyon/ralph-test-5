@@ -15,11 +15,10 @@
       "title": "Create test_hello.py with pytest tests",
       "description": "Test both default greeting and custom name greeting",
       "item_type": "task",
-      "status": "open",
+      "status": "closed",
       "priority": 1,
-      "claimed_by": "agent-runner",
       "created_at": "2026-02-28T18:44:18.831065224Z",
-      "updated_at": "2026-02-28T18:44:44.230718355Z"
+      "updated_at": "2026-02-28T18:45:41.426730909Z"
     },
     "lb-a2od": {
       "id": "lb-a2od",
