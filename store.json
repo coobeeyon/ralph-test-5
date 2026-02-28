@@ -5,10 +5,10 @@
       "title": "Hello World CLI",
       "description": "Python CLI that prints greeting messages with optional --name argument",
       "item_type": "epic",
-      "status": "open",
+      "status": "closed",
       "priority": 1,
       "created_at": "2026-02-28T18:44:13.514078478Z",
-      "updated_at": "2026-02-28T18:44:13.514078478Z"
+      "updated_at": "2026-02-28T18:45:41.444011042Z"
     },
     "lb-54qt": {
       "id": "lb-54qt",
