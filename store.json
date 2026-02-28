@@ -10,6 +10,16 @@
       "created_at": "2026-02-28T18:44:13.514078478Z",
       "updated_at": "2026-02-28T18:44:13.514078478Z"
     },
+    "lb-54qt": {
+      "id": "lb-54qt",
+      "title": "Create test_hello.py with pytest tests",
+      "description": "Test both default greeting and custom name greeting",
+      "item_type": "task",
+      "status": "open",
+      "priority": 1,
+      "created_at": "2026-02-28T18:44:18.831065224Z",
+      "updated_at": "2026-02-28T18:44:18.831065224Z"
+    },
     "lb-a2od": {
       "id": "lb-a2od",
       "title": "Create hello.py with argparse CLI",
@@ -24,6 +34,11 @@
   "deps": [
     {
       "from_id": "lb-a2od",
+      "to_id": "lb-3rp3",
+      "dep_type": "parent"
+    },
+    {
+      "from_id": "lb-54qt",
       "to_id": "lb-3rp3",
       "dep_type": "parent"
     }
